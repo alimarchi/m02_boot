@@ -1,1 +1,1 @@
-Aqui iran las instrucciones de la instalacion de mi proyecto
+Hi, here are the projects of my bootcamp Full Stack Jr. 
